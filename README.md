@@ -52,11 +52,11 @@ To run the project, follow these steps:
 
 ## Contributors
 
-- **Amar Jeet**
-- **Prishu**
-- **Ishika**
-- **Shyam**
-- **Devdulal**
+- **Japjot**
+- **Rishika**
+- **Tarun**
+- **Aryan**
+- **Vansh**
 
 ---
 
